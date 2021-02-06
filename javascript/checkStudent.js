@@ -125,7 +125,7 @@ function checkCourse(val) {
 
 function checkPersonalType(val) {
     let li = document.createElement('li');
-    let text = document.createTextNode('Course Type : ');
+    let text = document.createTextNode('Student Type : ');
     switch(val){
         case 0 :
             text.appendData('Thai Student');
