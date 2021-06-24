@@ -15,6 +15,8 @@ This project is just a quick project that I did on 3pm. I just don't want this i
 ### TODO next
 
     - [ maybe add more picture in it ]
+    - [ Consider remake this project but in VueJS ]
+    - [ Backend With Spring-boot of course ]
 
 ---
 
